@@ -1,0 +1,10 @@
+assemblyai
+openai
+pyttsx3
+pyaudio
+termcolor
+python-dotenv
+customtkinter
+pillow
+packaging
+a4f-local

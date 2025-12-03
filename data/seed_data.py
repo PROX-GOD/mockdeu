@@ -1,0 +1,18 @@
+SEED_QA = [
+    {"q": "What does your father do?", "a": "He is the BM of NBL bank."},
+    {"q": "And your mother?", "a": "She is involved in teaching profession."},
+    {"q": "Why this university?", "a": "I choose southern utah university to study bachelors of science in the hospitality. In this university professors Howard hu is also doing research in sustainable tourism."},
+    {"q": "What is sustainable tourism?", "a": "Sustainable tourism is tourism that not only generates revenue for the country but focuses on supporting local communities and promoting sustainable tourism in Nepal."},
+    {"q": "DS-160 ma herdai thiyoo, do you have any work experience?", "a": "No but I have taken training course."},
+    {"q": "What kind of training course?", "a": "Bartender or Barista."},
+    {"q": "Which course you love the most?", "a": "Of course bartender."},
+    {"q": "Why bartender?", "a": "I love to do flaring and making signature drinks."},
+    {"q": "Do you use social media?", "a": "Yes officer, I use both Facebook and Instagram."},
+    {"q": "Have you mentioned in DS-160?", "a": "Officer, I think I have mentioned my Facebook account in DS-160."},
+    {"q": "What is Darwin's theory of evolution?", "a": "This theory stated that when there is mutation or variation in living organisms, then the fittest one gets survived quickly."},
+    {"q": "Who will sponsor you?", "a": "Officer, my uncle and my elder brother will be sponsoring me."},
+    {"q": "Why not your parents?", "a": "Officer, I lost my father when I was just 2 years and since then my uncle and his family have been taking care of all my expenses."},
+    {"q": "What do they do?", "a": "Officer my elder brother is working as a post doctoral scholar employee at University of California at Berkeley and earns 70k USD and my uncle is a registered auditor and has been auditing since 15 yrs and earns 20k USD."},
+    {"q": "Have you brought your social medias with you?", "a": "No officer, I can provide if you need."},
+    {"q": "Take out your DS-160 form and write all your social medias and make it public.", "a": "After writing, all my social medias were public; the officer checked them and I got approval."},
+]
